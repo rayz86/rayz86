@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working personal as well as collaborative projects.
+- 🌱 I’m currently learning Python, JavaScript, HTML5, CSS etc.
+- ⚡ I'm pursuing a degree in Computer Engineering at Agnel Institue of Technology and Design. 
+- 📫 Reach me from the links in my bio.
+CHEERS🍻
 
 <!--
 **rayz86/rayz86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
