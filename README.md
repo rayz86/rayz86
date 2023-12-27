@@ -1,4 +1,4 @@
-![logo](https://github.com/rayz86/rayz86/blob/main/github_prof.png)
+
 <h1 align="center">Hi 👋, I'm Rayyan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
