@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C/C++.**
 
-- 📫 How to reach me **rayyanshaikh1986@gmail.com**
+- 📫 How to reach me **rayyan3886@gmail.com**
 
 - ⚡ Fun fact **Wheels for feels!**
 
