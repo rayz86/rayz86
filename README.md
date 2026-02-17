@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rayyan3886@gmail.com**
 
-- ⚡ Fun fact **Wheels for feels!**
+- ⚡ Fun fact **Engineering thought me how to set my priorities straight. SKILLS!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
