@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **personal as well as collaborative projects.**
 
-- 🌱 I’m currently learning **Software Development.**
+- 🌱 I’m currently learning about **Backend.**
 
 - 💬 Ask me about **Web Dev.**
 
