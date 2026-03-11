@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **rayyan3886@gmail.com**
 
-- ⚡ Fun fact **Engineering thought me how to set my priorities straight. SKILLS!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/walker1986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="walker1986" height="30" width="40" /></a>
